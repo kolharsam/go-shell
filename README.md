@@ -2,7 +2,7 @@
 
 ### A simple shell built using Go.
 
-#### TODO Items
+### TODO Items
  - [ ] Show present working directory (pwd)
  - [ ] Add host machine's name
  - [ ] Current User / Profile details
@@ -10,3 +10,5 @@
  - [ ] Browse `history` with arrow keys.
  - [ ] Coloured text
  - [ ] Port current application to Electron.
+ - [ ] Write tests
+ - [ ] Setup local workflow for local repo
